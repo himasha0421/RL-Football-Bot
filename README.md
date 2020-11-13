@@ -25,7 +25,7 @@ This repo consist of several reinforcement learning agent models trained to play
 
 ## Results
 
-![](support/results.webm)
+[check this video file](support/results.webm)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
